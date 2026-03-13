@@ -8,7 +8,7 @@ Official Digital Twin Simulation and Control Code for the IEEE manuscript:
 
 # 📖 Project Overview
 
-Data center cooling consumes up to **40% of total facility energy**. Traditional reactive controllers (like PID) suffer from **operational myopia** — they cannot anticipate heat surges and ignore dynamic grid signals such as real-time electricity pricing and carbon intensity.
+Data center cooling consumes up to **40% of total facility energy**. Traditional reactive controllers (like PID) suffer from **operational myopia**: they cannot anticipate heat surges and ignore dynamic grid signals such as real-time electricity pricing and carbon intensity.
 
 This repository contains the **complete multi-seed digital twin environment** used to empirically validate the **AI-Hybrid-EMPC architecture**.
 
